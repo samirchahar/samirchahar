@@ -9,15 +9,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=20&pause=1500&center=true&vCenter=true&width=440&color=D4AF37&lines=Veni%2C+Vidi%2C+Vici;Fortuna+Audaces+Iuvat;Ad+Astra" alt="Typing SVG">
 </p>
-<p align="center">❧ ─────────── ❧</p>
+<p align="center"><font color="#B8860B">❧ ─────────── ❧</font></p>
 <p align="center">
   Final year B.Tech student<br>
   Into C++, currently learning Machine Learning<br>
   When I'm not coding, I'm at the gym
 </p>
-<p align="center">❧ ─────────── ❧</p>
+<p align="center"><font color="#B8860B">❧ ─────────── ❧</font></p>
 <br><br>
-<h3 align="center">CONNECT WITH ME!</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=22&duration=1&pause=100000&repeat=false&center=true&vCenter=true&width=380&height=35&color=D4AF37&lines=CONNECT+WITH+ME!" alt="Connect with me">
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/samirchahar/"><img src="linkedin-logo.png" width="30" alt="LinkedIn"></a>
   &nbsp;&nbsp;
