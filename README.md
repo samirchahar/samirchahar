@@ -1,13 +1,15 @@
-<img src="pillar-left.png" align="left" width="150" alt="">
-<img src="pillar-right.png" align="right" width="150" alt="">
+<img src="pillar-left.png" height="480" alt="">
+<img src="pillar-right.png" height="480" alt="">
 
-<h1 align="center">SAMIR CHAHAR</h1>
+<h3 align="center">S A M I R &nbsp; C H A H A R</h3>
 
 <p align="center">
-  <img src="hand-left.png" width="45" alt="">
-  &nbsp;<i>CODING MY ROMAN EMPIRE</i>&nbsp;
-  <img src="hand-right.png" width="45" alt="">
+  <img src="hand-left.png" width="65" alt="">
+  &nbsp;<b><i>CODING MY ROMAN EMPIRE</i></b>&nbsp;
+  <img src="hand-right.png" width="65" alt="">
 </p>
+
+<br><br>
 
 <h3 align="center">CONTACT ME</h3>
 <p align="center"><a href="https://linkedin.com/in/samirchahar/">linkedin</a></p>
