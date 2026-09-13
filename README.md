@@ -1,7 +1,7 @@
 <img src="pillar-left.png" height="560" align="left" alt="">
 <img src="pillar-right.png" height="560" align="right" alt="">
 
-<h1 align="center"><img src="hand-left.png" width="70" style="margin-right:-25px" alt=""><img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=45&duration=1&pause=100000&repeat=false&center=true&vCenter=true&width=380&height=60&color=D4AF37&lines=SAMIR+CHAHAR" alt="Samir Chahar"><img src="hand-right.png" width="70" style="margin-left:-25px" alt=""></h1>
+<h1 align="center"><img src="hand-left.png" width="70" style="margin-right:-25px" alt=""><img src="name.png" width="460" alt="Samir Chahar"><img src="hand-right.png" width="70" style="margin-left:-25px" alt=""></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=18&duration=1&pause=100000&repeat=false&center=true&vCenter=true&width=300&height=30&color=D4AF37&lines=coding+my+empire" alt="coding my empire">
