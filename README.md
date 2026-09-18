@@ -21,11 +21,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=22&duration=1&pause=100000&repeat=false&center=true&vCenter=true&width=380&height=35&color=D4AF37&lines=CONNECT+WITH+ME!" alt="Connect with me">
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/samirchahar/"><img src="linkedin-logo.png" width="30" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/samirchahar/" title="samirchahar"><img src="linkedin-logo.png" width="30" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="mailto:samirchahar25@gmail.com"><img src="gmail-logo.png" width="30" alt="Gmail"></a>
+  <a href="mailto:samirchahar25@gmail.com" title="samirchahar25@gmail.com"><img src="gmail-logo.png" width="30" alt="Gmail"></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/samirchahar/"><img src="leetcode-logo.png" width="30" alt="LeetCode"></a>
+  <a href="https://leetcode.com/samirchahar/" title="samirchahar"><img src="leetcode-logo.png" width="30" alt="LeetCode"></a>
 </p>
 <br clear="both">
 
